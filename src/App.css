@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: #292b2e;
+  color: #ffffff;
+}
+
+.app-title {
+  color: #ffffff;
+  margin-bottom: 4rem;
+}
+
+p{
+  font-size: 2rem;
+  font-weight: bold;
+}
