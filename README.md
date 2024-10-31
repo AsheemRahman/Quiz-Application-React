@@ -12,7 +12,7 @@ This is a simple quiz application built with React, designed to test your knowle
 
 ## Demo
 
-A live demo of the application can be found [here](#).
+A live demo of the application can be found [here](#https://quiz-application-react-orpin.vercel.app/).
 
 ## Technologies Used
 
@@ -40,11 +40,9 @@ A live demo of the application can be found [here](#).
       cd react-quiz-app
   2.Install dependencies:
 
-      ```bash
       npm install
   3.Start the development server:
 
-      ```bash
       npm run dev
 
   4.Open your browser and navigate to http://localhost:5173/ to view the app.
