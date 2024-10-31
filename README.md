@@ -12,7 +12,7 @@ This is a simple quiz application built with React, designed to test your knowle
 
 ## Demo
 
-A live demo of the application can be found [here](#). *(Update this with the link if deployed online)*
+A live demo of the application can be found [here](#).
 
 ## Technologies Used
 
